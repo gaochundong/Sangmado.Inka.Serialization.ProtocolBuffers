@@ -1,1 +1,1 @@
-# RockStone.Inka.Serialization.ProtocolBuffers
+# Sangmado.Inka.Serialization.ProtocolBuffers

@@ -1,5 +1,5 @@
 ﻿
-namespace RockStone.Inka.Serialization.ProtocolBuffers
+namespace Sangmado.Inka.Serialization.ProtocolBuffers
 {
     public class BclHelpers
     {

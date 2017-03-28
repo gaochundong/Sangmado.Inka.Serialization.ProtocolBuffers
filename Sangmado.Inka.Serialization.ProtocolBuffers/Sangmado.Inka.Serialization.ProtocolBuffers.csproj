@@ -7,8 +7,8 @@
     <ProjectGuid>{C50AA185-E232-4E48-9AB0-D9B64A9536FA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RockStone.Inka.Serialization.ProtocolBuffers</RootNamespace>
-    <AssemblyName>RockStone.Inka.Serialization.ProtocolBuffers</AssemblyName>
+    <RootNamespace>Sangmado.Inka.Serialization.ProtocolBuffers</RootNamespace>
+    <AssemblyName>Sangmado.Inka.Serialization.ProtocolBuffers</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>

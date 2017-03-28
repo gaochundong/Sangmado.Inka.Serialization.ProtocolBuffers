@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace RockStone.Inka.Serialization.ProtocolBuffers
+namespace Sangmado.Inka.Serialization.ProtocolBuffers
 {
     public static class ProtocolBuffersConvert
     {
